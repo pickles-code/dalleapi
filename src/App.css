@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.app-main {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+}
+
+.app-input {
+  width: 200px;
+  height: 20px;
+  margin: 20px;
+}
+
+.result-image {
+  margin-top: 20px;
+  width: 300px;
+}
